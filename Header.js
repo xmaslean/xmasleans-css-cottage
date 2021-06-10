@@ -1,7 +1,7 @@
 function Header() {
 	return (
 		<header>
-			<h1>Touch<strong>Some</strong>Grass</h1>
+			<h1>Ani<strong>Simple</strong></h1>
 		</header>
 	)
 }
